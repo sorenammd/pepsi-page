@@ -7,5 +7,5 @@ Special Animation.
 
 ## 🚀 Technologies:
 
-Html , Css , javascript
+Html5 , Css3 , Javascript
 
